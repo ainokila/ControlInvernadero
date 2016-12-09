@@ -1,5 +1,11 @@
 # Control de Invernadero
 
+##Material Usado:
+1. Placa Arduino Uno R3
+2. Ethernet Arduino
+3. Sensor DHT11 para temperatura y humedad.
+4. Relays hasta 10A.
+
 ##Objetivo
 Poder controlar la humedad y la temperatura desde una interfaz y además podamos encender diversos intrumentos como los calentadores y el agua.
 
