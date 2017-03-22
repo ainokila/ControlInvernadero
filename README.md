@@ -1,23 +1,23 @@
 # Control de Invernadero
 
-##Material Usado:
+## Material Usado:
 
 * Placa Arduino Uno R3
 * Ethernet Arduino
 * Sensor DHT11 para temperatura y humedad.
 * Relays hasta 10A.
 
-##Objetivo
+## Objetivo
 
 Poder controlar la humedad y la temperatura desde una interfaz y además podamos encender diversos intrumentos como los calentadores y el agua.
 
-##Diagrama de estados del servidor para 2 relays.
+## Diagrama de estados del servidor para 2 relays.
 
 ![DiagramaEstados](https://github.com/ainokila/ControlInvernadero/blob/master/example/Diagrama%20de%20estados.png)
 
-##Interfaz de Usuario
+## Interfaz de Usuario
 
-###Interfaz Web
+### Interfaz Web
 
 Cuenta con una interfaz en la que se pueden controlar los sensores y los relays para encender lo que se necesite, para el ejemplo estan usandose solamente 2.
 
@@ -25,7 +25,7 @@ Cuenta con una interfaz en la que se pueden controlar los sensores y los relays 
 
 ![Web](https://github.com/ainokila/ControlInvernadero/blob/master/example/Figura2.PNG)
 
-##Linea de Comandos Java
+## Linea de Comandos Java
 
 Tambien se ha implementado una aplicacion en linea de comandos usando Sockets .
 
